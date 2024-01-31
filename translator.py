@@ -1,6 +1,12 @@
 from googletrans import Translator
 import time
 
+print("""
+__________________________________O o
+DR.OCTOGONAPUS BWAAAAAAAAAHHH!!! /¯¯/_o___o___o___o____o__
+_________________________________\__\¯¯o¯¯¯o¯¯¯¯¯¯o¯¯¯¯0¯¯
+""")
+
 translator = Translator()
 counter = 0
 with open('subtitles-en.txt', encoding='cp437') as file:
