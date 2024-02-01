@@ -1,21 +1,21 @@
-example_cutscene "Questo e' un esempio di didascalia del filmato. "
+example_cutscene "Questo e' un esempio di didascalia del filmato."
 
 //ENEMIES
-ranofc02.voc "Ufficiale: Fermo dove sei!"
-ranofc04.voc "Ufficiale: Non sei autorizzato in quest'area. "
+ranofc02.voc "Ufficiale: Rimani dove sei!"
+ranofc04.voc "Ufficiale: Non siete autorizzati a rimanere in questa zona."
 ranofc05.voc "Ufficiale: Stai violando la legge imperiale!"
-ranofc06.voc "Ufficiale: Fermati!"
-ransto01.voc "Trooper: Eccolo, fermalo!"
-ransto02.voc "Trooper: Fermo dove sei. "
-ransto03.voc "Trooper: Fermati, feccia ribelle!"
-ransto04.voc "Trooper: Non sei autorizzato in quest'area. "
+ranofc06.voc "Ufficiale: Alt!"
+ransto01.voc "Trooper: Eccolo, fermatelo!"
+ransto02.voc "Trooper: Ehi, tu, rimani dove sei!"
+ransto03.voc "Trooper: Altolà, feccia ribelle!"
+ransto04.voc "Trooper: Non siete autorizzati a rimanere in questa zona."
 ransto05.voc "Trooper: Arrenditi immediatamente!"
-ransto06.voc "Trooper: Fermati!"
-ransto07.voc "Trooper: Imposta Blaster al massimo!"
-ransto08.voc "Trooper: Sparagli!"
-icmdo-1.voc  "Commando: E' qui! Ferma quell'uomo!" //unused?
-ioffic-1.voc "Ufficiale: Fermo dove sei. "
-m16moc01.voc "Generale Mohc: E' passato molto tempo da quando ho sfidato un uomo in combattimento. Sono contento che il mio avversario sia cosi' degno. "
+ransto06.voc "Trooper: Alt!"
+ransto07.voc "Trooper: Blaster a piena potenza!"
+ransto08.voc "Trooper: Fuoco!"
+icmdo-1.voc  "Commando: Eccolo! Fermatelo!" //unused?
+ioffic-1.voc "Ufficiale: Ehi, tu, rimani dove sei!"
+m16moc01.voc "Generale Mohc: E' passato molto tempo da quando ho sfidato un uomo a combattere. Sono contento che il mio avversario sia all'altezza."
 
 
 //SFX
@@ -39,7 +39,7 @@ reeyee1.voc  "[Urla aliene]"                      //Gran alert
 reeyee-1.voc "[Urla aliene]"                      //Gran alert (duplicate)
 reeyee3.voc  "[Urlo alieno di morte]"                   //Gran death
 reeyee-3.voc "[Urlo alieno di morte]"                   //Gran death (duplicate)
-probe-1.voc  "[Discorso droide]"              //Probe alert
+probe-1.voc  "[Allerta droide]"              //Probe alert
 probalm.voc  "[Sovraccarico di circuiti]"               //Probe death
 bossk-1.voc  "[Sibilo rettiliano]"                  //Trandoshan alert
 bosskdie. voc "[Urlo rettiliano sibilante]"              //Trandoshan death
@@ -68,82 +68,82 @@ creatur1.voc "[Rombo minaccioso, scorrere dell'acqua]"
 
 //----- MISSION VOICEOVER --------------------------------------
 //M01 (Secret Base)
-m01kyl01.voc "Kyle: E' troppo facile. Ora per arrivare alla mia nave. "
+m01kyl01.voc "Kyle: Troppo facile. Ora via all'astronave."
 //M02 (Talay)
 m02kyl01.voc "Kyle: Jan?"
-m02jan01.voc "Jan: Vai avanti, Kyle. "
-m02kyl02.voc "Kyle: Sembra che io abbia trovato qualcosa che potrebbe aiutarci. "
-m02jan02.voc "Jan: Torna al pad di atterraggio, ci incontreremo li'."
+m02jan01.voc "Jan: Vai avanti, Kyle."
+m02kyl02.voc "Kyle: Sembra che io abbia trovato qualcosa che potrebbe aiutarci."
+m02jan02.voc "Jan: Torna alla pista di atterraggio e ci incontreremo la."
 //M03 (Anoat)
-m03kyl01.voc "Kyle: Jan, ho trovato Moff Rebus.Sono pronto a uscire da questo casino. "
-m03jan01.voc "Jan: Ora comandi tu, Kyle. "
+m03kyl01.voc "Kyle: Jan, ho trovato Moff Rebus... e sono pronto ad uscire da questo pasticcio."
+m03jan01.voc "Jan: Sei il capo, Kyle."
 //M04 (Research Facility)
-m04kyl01.voc "Kyle: Ho trovato un metallo dall'aspetto interessante. Penso che questo possa offrire alcuni indizi importanti. "
-m04jan01.voc "Jan: Questo e' tutto cio' di cui abbiamo bisogno. Usciamo da qui, mi sto innervosendo. "
+m04kyl01.voc "Kyle: Ho trovato un metallo molto interessante. Penso che ci fornirà degli indizi importanti."
+m04jan01.voc "Jan: Basta così. Andiamo via di qui. Comincio ad essere nervosa."
 //M05 (Gromas)
-m05kyl01.voc "Kyle: Kyle a Jan, carica posizionata. Pronto a fuggire. "
-m05kyl02.voc "Kyle: Jan, e' meglio che mi tiri fuori di qui. Penso di aver appena finito un soldato oscuro. Non voglio scoprire se ce ne sono di piu'."
-m05jan01.voc "Jan: Ok Kyle, mi suona bene. "
-m05kyl03.voc "Kyle: Se quella cosa laggiu' e' una qualche indicazione di cio' con cui abbiamo a che fare, avremo bisogno di piu' potenza di fuoco. "
+m05kyl01.voc "Kyle: Kyle a Jan, carica esplosiva pronta ad esplodere."
+m05kyl02.voc "Kyle: Jan, faresti meglio a tirarmi fuori di qui. Credo di aver appena fatto fuori un soldato delle truppe imperiali e non vorrei trovarne altri qui intorno."
+m05jan01.voc "Jan: Ok Kyle, perfetto."
+m05kyl03.voc "Kyle: Se quell'affare laggiu' e' quello che dobbiamo affrontare, allora avremo bisogno di altre cariche esplosive."
 //M06 (Detention Center)
-m06kyl01.voc "Kyle: Va bene Jan, ho salvato Madine. "
-m06jan01.voc "Jan: Non andare in giro, usciamo da qui prima che arrivino altri soldati. "
+m06kyl01.voc "Kyle: Ok Jan, ho liberato Madine."
+m06jan01.voc "Jan: Non perdere tempo, andiamocene prima che arrivino altre truppe."
 //M07 (Ramsees Head)
-m07kyl01.voc "Kyle: il dispositivo di tracciamento e' fissato. "
-m07jan01.voc "Jan: Ricevo il segnale. Sembra che qui abbiamo finito. "
-m07jan02.voc "Jan: Ok Kyle, vediamo dove sono diretti questi contrabbandieri. "
+m07kyl01.voc "Kyle: Dispositivo di rilevamento attivato."
+m07jan01.voc "Jan: Riceviamo il segnale. Sembra che sia tutto apposto."
+m07jan02.voc "Jan: Ok Kyle, vediamo dove sono diretti questi contrabbandieri."
 //M08 (Robotics Facility)
-m08kyl01.voc "Kyle: Carica 1 pronta."
-m08kyl02.voc "Kyle: Carica 2 pronta."
-m08kyl03.voc "Kyle:Tutte le cariche pronte. "
-mo8jan01.voc "Jan: Ottimo lavoro. Facciamo saltare questo cubo di ghiaccio. " //note the typo in file name, o instead of 0
-m08kyl04.voc "Kyle: Donna dopo il mio cuore. "
-m08kyl05.voc "Kyle: Ah, me- [statiche]" //unused?
+m08kyl01.voc "Kyle: Prima carica piazzata."
+m08kyl02.voc "Kyle: Seconda carica piazzata."
+m08kyl03.voc "Kyle:Tutte le cariche piazzate."
+mo8jan01.voc "Jan: Bel lavoro. Facciamo saltare questo cubo di ghiaccio." //note the typo in file name, o instead of 0
+m08kyl04.voc "Kyle: Una donna che la pensa come me."
+m08kyl05.voc "Kyle: Ah, maledizione [statiche]" //unused?
 //M09 (Nar Shaddaa)
-m09kyl01.voc "Kyle: Jan! Ho trovato quella scheda imperiale Nava. "
-m09jan01.voc "Jan: Quelle devono essere percorsi di contrabbando verso l'Arc Hammer. Penso che sia ora di uscire di qui. "
-m09jana1.voc "Jan: Quelle devono essere percorsi di contrabbando verso l'Arc Hammer. Penso che sia ora di uscire di qui. " //alternate take
+m09kyl01.voc "Kyle: Jan! Ho trovato uns scheda Nava imperiale."
+m09jan01.voc "Jan: Dovrebbe trattarsi della rotta dei contrabbandieri verso l'Arc Hammer. Credo che sia giunto il momento di andare via."
+m09jana1.voc "Jan: Dovrebbe trattarsi della rotta dei contrabbandieri verso l'Arc Hammer. Credo che sia giunto il momento di andare via." //alternate take
 //M10 (Jabba's Ship
-m10jan01.voc "Jan: Grazie, pensavo di aver finito. "
-m10kyl03.voc "Kyle: Non c'e' tempo per gli abbracci. Andiamocene da qui. "
+m10jan01.voc "Jan: Grazie, credevo di essere spacciata."
+m10kyl03.voc "Kyle: Non c'e' tempo per abbracci. Andiamocene da qui."
 //M11 (Imperial City)
-m11kyl01.voc "Kyle: Jan, ho rotto la serratura centrale. Sono dentro. "
-m11jan01.voc "Jan: Buon lavoro Kyle, ma non hai ancora finito. "
-m11kyl02.voc "Kyle: Scheda Nava inserita e decodifica. "
-m11jan02.voc "Jan: Bella Kyle. Ora prendi quel nastro-dati e scappa al pad di atterraggio. Non posso stare qui troppo a lungo prima che la sicurezza imperiale se ne accorga. " 8
-m11kyl03.voc "Kyle: Ho preso i nastri-dati, sto uscendo. "
-m11jan03.voc "Jan: Kyle, qui sta accadendo qualcosa di strano. Torna qui - dico sul serio!"
-m11jan04.voc "Jan: Oh no! Kyle, e' meglio stare attenti, ho appena visto ... [Forti Statiche]"
-m11jan05.voc "Jan: Kyle, dove sei? Sono tornato al pad di atterraggio. "
+m11kyl01.voc "Kyle: Jan, ho scassinato serratura principale. Sono entrato."
+m11jan01.voc "Jan: Ottimo lavoro Kyle, ma non è ancora finita."
+m11kyl02.voc "Kyle: Scheda inserita e in decodificazione."
+m11jan02.voc "Jan: Fantastico Kyle. Adesso prendi il nastro-dati e via veloce alla pista di atterraggio. Io non posso rimanere qui troppo a lungo prima che la sicurezza imperiale se ne accorga." 8
+m11kyl03.voc "Kyle: Nastri-dati presi, sto per uscire."
+m11jan03.voc "Jan: Kyle, sta succedendo qualcosa di strano. Torna qui - è un ordine!"
+m11jan04.voc "Jan: Oh no! Kyle, stai attento, ho appena visto... [Forti Statiche]"
+m11jan05.voc "Jan: Kyle, dove sei? Sono alla pista di atterraggio."
 m11kyl04.voc "Kyle: Dov'eri, Jan?"
-m11jan06.voc "Jan: C'erano dei TIE Fighters. Ho dovuto smaltirli correttamente."
-m11jana6.voc "Jan: C'erano dei TIE Fighters. Ho dovuto smaltirli correttamente." //alt. take
+m11jan06.voc "Jan: Ero circondata da caccia TIE. Dovevo liberarmi di loro come si deve."
+m11jana6.voc "Jan: Ero circondata da caccia TIE. Dovevo liberarmi di loro come si deve." //alt. take
 //M12 (Fuel Station)
-m12imp01.voc "Ufficiale: Nave Contrabbandiera, il percorso di volo e' chiaro. Inizia la procedura di atterraggio." 4.5
-m12kyl01.voc "Kyle: Okay Jan - Nave Contrabbandiera Posizionata"
-m12jan01.voc "Jan: Buon lavoro, Kyle. "
-m12kyl02.voc "Kyle: In partenza... ci vediamo sul lato oscuro, Jan"
-m12jan02.voc "Jan: Buona fortuna, Kyle... e che la forza sia con te. "
+m12imp01.voc "Ufficiale: Navicella, la tua traiettoria di volo è libera. Inizia le operazioni di sbarco." 4.5
+m12kyl01.voc "Kyle: Presa la nave dei contrabbandieri."
+m12jan01.voc "Jan: Bel lavoro."
+m12kyl02.voc "Kyle: Pronti al lancio... ci vediamo sul lato oscuro, Jan"
+m12jan02.voc "Jan: Buona fortuna... e che la forza sia con te."
 //M13 (Executor)
-m13kyl01.voc "Kyle: Ecco qui..."
+m13kyl01.voc "Kyle: Ci siamo..."
 //M16 (Arc Hammer) Yes, that's how it's numbered
-m16kyl01.voc "Kyle: Quello e' uno..."
-m16kyl02.voc "Kyle: Sono due..."
-m16kyl03.voc "Kyle: Un'altro a sinistra."
-m16kyl04.voc "Kyle: Jan sarebbe orgogliosa ..."
+m16kyl01.voc "Kyle: Fuori uno..."
+m16kyl02.voc "Kyle: Fuori due..."
+m16kyl03.voc "Kyle: Ancora una."
+m16kyl04.voc "Kyle: Jan sarebbe orgogliosa..."
 m16kyl05.voc "Kyle: Non c'e' gloria in guerra, Mohc ..." //sounds like he forgot how to act...
 m16kyl06.voc "Kyle: Per la liberta'."
 
 //----- CUTSCENES -----------------------------------------------
 //Before M02 (Talay)
-m01nar01 "Kyle consegna i piani all'alleanza ribelle. Poco dopo, la Morte Nera viene distrutta. Ma anche se l'Alleanza celebra questa vittoria, si e' messo in moto un altro complotto che diventera' una preoccupazione ancora maggiore per la ribellione. " 13.5
-m01vdr01 "L'imperatore ha approvato la dimostrazione del test, Generale MOHC." 4
-m01moc0a "Grazie Lord Vader.Quello che svelo oggi segnera' una nuova era per l'Impero. " 5.1
-m01moc01 "Grazie Lord Vader.Quello che svelo oggi segnera' una nuova era per l'Impero. " 5.1 //duplicate
-m01moc0b "Saremo in grado di decimare i Ribelli proprio come abbiamo fatto con i Cavalieri Jedi.  Alla fine, la guerra dell'Imperatore sara' riempita solo della gloria e della bellezza della vittoria decisiva. " 11
-m01vdr02 "Una causa nobile, generale. Spero che la dimostrazione sia all'altezza delle tue affermazioni. Procedere. "
-m01moc02 "Con piacere. "
-m01moc03 "Dark Trooper: rilascio. "
+m01nar01 "Kyle consegna i piani all'alleanza ribelle. Subito dopo, la Morte Nera viene distrutta. Ma mentre l'Alleanza celebra questa vittoria, viene messo in atto un altro malefico complotto, una preoccupazione maggiore per i ribelli." 13.5
+m01vdr01 "L'imperatore ha approvato il suo collaudo prova, Generale Mohc." 4
+m01moc0a "Grazie Lord Vader. Cio' che svelo oggi segnera' una svolta per l'Impero." 5.1
+m01moc01 "Grazie Lord Vader. Cio' che svelo oggi segnera' una svolta per l'Impero." 5.1 //duplicate
+m01moc0b "Riusciremo a sterminare i Ribelli come abbiamo fatto con i Cavalieri Jedi. Finalmente la guerra dell'Imperatore sara' piena di gloria e di bellezza dovute a una vittoria decisiva." 11
+m01vdr02 "Una causa nobile, generale. Spero che la dimostrazione non deluda le sue aspettative. Proceda."
+m01moc02 "Con piacere."
+m01moc03 "Rilascio truppa imperiale."
 intcom3  "[Chiacchiere PA indistinte]"
 intcom4  "[Chiacchiere PA indistinte]"
 intcom5  "[Chiacchiere PA indistinte]"
@@ -151,29 +151,29 @@ intcom6  "[Chiacchiere PA indistinte]"
 beep-3   "[BEEP forte]"
 dt-door2 "[Rumori meccanici]"
 dt-lower "[Attrezzatura ronzante]"
-dtlaunch "[Blast del motore]"
-dive1    "[Motori ululanti]"
-m01vdr03 "E' impressionante, generale. L'imperatore sarà molto contento. Continua con il tuo progetto. "
-m01moc04 "Certamente, Lord Vader."
-m01mma01 "Grazie comandante, per aver risposto con così breve preavviso. L'Impero ci ha tenuto in fuga dalla distruzione della Morte Nera. "
+dtlaunch "[Rombo del motore]"
+dive1    "[Motori urlanti]"
+m01vdr03 "Davvero impressionante, generale. L'imperatore sarà molto compiaciuto. Continui pure con il suo piano."
+m01moc04 "Certo, Lord Vader."
+m01mma01 "Grazie comandante, per aver risposto al nostro appello. Dopo la distruzione della Morte Nera, l'Impero non ci da' tregua."
 m01mma02 "Cinque giorni fa l'Impero ha attaccato una delle nostre basi segrete nella città di Talay."
-m01mma03 "La base di Tak e' stata distrutta in pochi minuti. Molte persone innocenti nella città circostante, così come il personale ribelle, furono uccise. L'intelligence pensa che questo possa essere un atto di ritorsione per la distruzione della Morte Nera. " 12.5
+m01mma03 "La base Tak fu distrutta in pochi minuti. Molta gente innocente nella città circostante e anche i ribelli, furono uccisi. Il servizio segreto pensa che si tratti di una rappresaglia per la distruzione della Morte Nera." 12.5
 m01reb01 "Qui Base Tak a chiunque ci sia là fuori. Per favore, siamo sotto attacco imperiale! Sono ovunque! Non c'e' stato alcun preavviso!"
 m01reb02 "Devastazione totale! Hanno sfondato i nostri scudi... Hanno sfondato i nostri scudi"
-distress "Qui Base Tak a chiunque ci sia là fuori. Per favore, siamo sotto attacco imperiale! [Distorsione] Sono ov... no avvertim... ...vastazione totale. Hanno sfondato i nostri scudi... hanno sfondato i nostri scudi. .. Hanno sfondato i nostri scudi! [statiche]"
-m01kyl02 "Interessante ... sembra che potrebbe essere un normale attacco imperiale ... tranne quei suoni. "
-m01mma04 "Molto perspicace comandante. So che comprendi che tutto ciò di cui discutiamo qui e' segreto. " 5.0
-m01mma05 "Questo ufficiale imperiale, Crix Madine, desidera disertare per l'alleanza. Ci ha fornito informazioni sullo sviluppo di una nuova arma imperiale. Quei suoni che hai sentito, crediamo, provengono da quell'arma. Un nuovo tipo di Stormtrooper - I Dark Trooper." 17.3
-m01kyl03 "Un nuovo Stormtrooper che può eliminare una base ribelle così rapidamente? Dovevo continuare a lavorare per l'Impero. "
-m01mma06 "Il comando ribelle non lo sta prendendo leggermente. Mi hanno autorizzato ad assumerti per scoprire se c'e' una minaccia, e se c'e', per sovvertirla. Cioè, se sei ancora dalla nostra parte. " 12.5
-m01kyl04 "Questo potrebbe essere interessante ... [Lunga Pausa] Va bene, ci sono.  Ma penso che avrò bisogno di aiuto per questo. Voglio Jan Ors come mio ufficiale di missione. "
-m01mma07 "Certamente. Quindi lascerò che Jan ti informi ulteriormente sugli obiettivi della tua missione. Grazie comandante e che la forza sia con te. "
+distress "Base Tak chiama qualcuno... Per favore, siamo sotto attacco imperiale! [Distorsione] Tutto è perduto... Non c'è stato nessun avvertimento... Devastazione totale... Sfondano i nostri scudi... Sfondano i nostri scudi... [statiche]"
+m01kyl02 "Interessante... sembrerebbe un normale attacco imperiale... ad esclusione di quei suoni."
+m01mma04 "Molto perspicace comandante. So che ha capito che tutto quello che diciamo è da ritenersi classificato." 5.0
+m01mma05 "Un ufficiale imperiale, Crix Madine, vuole arruolarsi all'alleanza. Ci ha fornito informazioni sulla messa a punto di una nuova arma imperiale. I suoni che sente, pensiamo provengano da quell'arma. Un nuovo tipo di truppe d'assalto - La Truppa Imperiale." 17.3
+m01kyl03 "Una truppa d'assalto che può far fuori una base ribelle così velocemente? Avrei dovuto continuare a lavorare per l'Impero."
+m01mma06 "Il comando ribelle prende la faccenda alla leggera. Ci hanno autorizzati ad arruolarla per scoprire se c'e' una minaccia, e se c'e', deve essere eliminata. Cioè, se lei è ancora dalla nostra parte." 12.5
+m01kyl04 "Potrebbe essere interessante... [Lunga Pausa] D'accordo, accetto. Ma credo di aver bisogno di un po' di aiuto. Voglio Jan Ors come mio ufficiale di missione."
+m01mma07 "Certamente. Allora lascerò che Jan le dia istruzioni ulteriori sugli obiettivi sulla sua missione. Grazie comandante e che la forza sia con lei."
 
 //Before M06 (Detention Center)
-m05moc01 "Questa barzelletta di ufficiale ufficiale non divulgherà più ulteriori informazioni a quel ribelle, Kyle Katarn." 7
-m05vdr01 "Katarn non sarà così facile da affrontare. E' molto intraprendente - più intraprendente, a quanto pare, anche delle tue truppe oscure."
-m05moc02 "Capisco la minaccia, Lord Vader. Katarn era un tempo un impressionante ufficiale imperiale, ma era debole e rinunciava alla lotta per il nostro nuovo ordine. Non metterei molta fiducia nelle sue capacità. Katarn non si avvicinerà mai a questa nave. Il mio nuovo assunto se ne occuperà..." 19.5
-guncock "[Rumore di blaster]"
+m05moc01 "Questo spregevole impostore non potra' più rivelar informazioni a quel ribelle di Kyle Katarn." 7
+m05vdr01 "Katarn non sarà altrettanto facile trattare con Katarn. E' un uomo pieno di risorse - sembra che ne abbia qualcuna in più delle truppe imperiali."
+m05moc02 "Mi rendo conto della minaccia, Lord Vader. Una volta Katarn era un ottimo ufficiale dell'impero, ma era debole e rinuncio' alla lotta per il nuovo ordine. Non ci scommetterei sulla sua abilità. Katarn non si avvicinerà mai a questa astronave. Ci penserà il mio nuovo elemento..." 19.5
+guncock "[Carica blaster]"
 
 //Before M10 (Jabba's Ship)
 ray      "[Raggio pulsante]" 2.9
@@ -192,7 +192,7 @@ m16moc05 "Non ti illudere, comandante. Combattiamo tutti per la libertà. Peccat
 
 
 //After M16 (Arc Hammer)
-m16vdr01 "Questa e' una sfortunata battuta d'arresto. La forza e' potente con Katarn..." 4.5
+m16vdr01 "Questa e' uno spiacevole incidente. La forza e' con Katarn..." 4.5
 
 //MISC
 m12imp01 "Nave contrabbandiera, la tua rotta di volo e' chiara. Inizia la procedura di atterraggio." 4.5
