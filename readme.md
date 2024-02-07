@@ -1,6 +1,5 @@
 <h1 style="text-align: center;">TFE-Octo-Translator</h1>
 
-***
 A simple Python script to translate **The Force Engine** using the Python Googletrans package.
 
 ### Prerequisites:
