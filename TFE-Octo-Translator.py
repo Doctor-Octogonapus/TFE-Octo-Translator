@@ -125,7 +125,7 @@ with open('subtitles-en.txt', encoding='cp437') as file:
             end = line.rfind('"')
             original_part = line[start + 1:end]
             # 'it' is the code for italian, use the code you want
-            translated_part = translator.translate(text=original_part, src='en', dest=destination_language, )
+            translated_part = translator.translate(text=original_part, src='en', dest=destination_language)
             time.sleep(0.2)  # a pause to avoid too many calls for second to google servers
             new_line = line[:start + 1] + translated_part.text + line[end::]
             # change the name of the subtitle file, also below. Change the encoding if needed by your language
