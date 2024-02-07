@@ -1,6 +1,6 @@
 Prerequisites:
 
-- Python 3.5+
+- Python 3.8+
 - Packages: googletrans, httpcore, httpx
 
 Install googletrans, httpcore, httpx with:
