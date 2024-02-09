@@ -26,6 +26,10 @@ subtitles-xx.txt, where xx will be your 2-letters language code.
 If you start multiple time the script it will append the text to the pre-existing file.
 If you don't want that, just delete, move or rename the old file.
 
+After that, start TFE, go in the Options > Accessibility and there select your subtitles and optionally the font.
+
+![](https://github.com/Doctor-Octogonapus/TFE-Octo-Translator/blob/main/Screenshot.png)
+
 ### Remember: 
 The Force Engine ships with a free font containing latin characters.
 If you want to translate the file in a language not supported by that charset, just go to [Google Fonts](https://fonts.google.com/) and download a free font. I suggest a font from the Noto style.
